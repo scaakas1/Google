@@ -1,0 +1,58 @@
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+nav{
+    text-align: end;
+    word-spacing: .5cm;
+}
+.google{
+ color: white;
+ font-size: 2.3cm;
+ font-weight: 900px;
+ font-style: bold;
+ font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+ padding-top: 1.7cm;
+ text-align: center;
+ letter-spacing: 1px;
+}
+.img{
+    padding-left:20em;
+    padding-top: 20px;
+}
+button{
+    background-color: #2f3133;
+    color: white;
+    border: none;
+    width: 3.5cm;
+    height: 0.8cm;
+    font-weight: 900px;
+    font-size: 15px;
+   
+}
+body{
+    color: white;
+}
+.hq{
+    color:grey;
+}
+.hq span{
+    color: lightblue;
+    word-spacing: 4px;
+    font-size: 15px;
+}
+.last1{
+    text-align: left;  
+}
+.last2{
+    text-align:left;
+    padding-left: 25px;
+    word-spacing: 15px;
+}
+.last2r{
+    text-align:end;
+    padding-left: 25px;
+    word-spacing: 15px;
+    padding-left: 18cm;
+}
